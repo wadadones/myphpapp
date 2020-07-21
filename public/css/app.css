@@ -1,0 +1,5 @@
+.day:hover {
+  background-color: #555555;
+  transition: background-color 0.3s linear;
+}
+
